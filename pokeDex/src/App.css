@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+  }
+  
+  .nav {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .form {
+    display: flex;
+    align-items: right;
+  }
+  
+  .input {
+    margin-right: 0;
+    justify-content: right;
+  }
+  
+  .button {
+    margin-left: 15rem;
+  }
+  
+  div {
+    margin-top: 50px; 
+  }
