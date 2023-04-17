@@ -5,7 +5,7 @@ import {MyPokemon} from '../App';
 
 export default function PokemonTeam() {
     const {capturedPokemon} = useContext(MyPokemon);
-    
+    console.log(capturedPokemon[0]);
 
   return (
     <div>

@@ -22,6 +22,10 @@ const router = createBrowserRouter([
                 path: "team",
                 element: <Team />,
             },
+            // {
+            //     path: "battle",
+            //     element: <Battle />
+            // },
         ],
     },
 ]);
